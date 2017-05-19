@@ -5,7 +5,6 @@ const {Route, Router, IndexRoute, hashHistory} = require('react-router');
 // const Router = require('react-router').Router;
 // const IndexRoute = require('react-router').IndexRoute;
 // const hashHistory = require('react-router').hashHistory;
-// weather api key: df7e3c98ca0017fe242189315a17b64e
 const Main = require('Main');
 const Weather = require('Weather');
 const About = require('About');
